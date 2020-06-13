@@ -1,0 +1,14 @@
+{
+    "name": "root/kisshh",
+    "description": "this is a project to test composer and git,just a test!",
+    "type": "project",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "kisshh",
+            "email": "2493471867@qq.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
